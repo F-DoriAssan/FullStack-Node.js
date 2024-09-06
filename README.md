@@ -1,11 +1,11 @@
 ﻿# Codo a Codo 4.0 - Comisión 23074 - Desarrollo Web Full Stack con JavaScript y Node.js
- # F-DoriAssan
+ # Federico-Dorigatti Assan
 
-**F-DoriAssan** es un proyecto Fullstack desarrollado con Node.js y otras tecnologías web modernas. Este repositorio contiene una serie de archivos y ejemplos relacionados con el desarrollo web, incluyendo HTML, CSS, JavaScript, y Node.js.
+**FullStack con Node** es un proyecto Fullstack desarrollado con Node.js y otras tecnologías web modernas. Este repositorio contiene una serie de archivos y ejemplos relacionados con el desarrollo web, incluyendo HTML, CSS, JavaScript, y Node.js.
 
 ## Descripción del Proyecto
 
-El proyecto **F-DoriAssan** cubre una variedad de temas esenciales para el desarrollo web, desde el diseño de interfaces hasta la programación del servidor. Está diseñado para servir como un recurso educativo y práctico para desarrolladores que desean mejorar sus habilidades en el desarrollo Fullstack.
+El proyecto cubre una variedad de temas esenciales para el desarrollo web, desde el diseño de interfaces hasta la programación del servidor. Está diseñado para servir como un recurso educativo y práctico para desarrolladores que desean mejorar sus habilidades en el desarrollo Fullstack.
 
 ### Estructura del Repositorio
 
